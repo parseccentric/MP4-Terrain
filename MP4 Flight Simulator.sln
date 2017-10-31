@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP4 Flight Simulator.Plugins", "MP4 Flight Simulator.Plugins.csproj", "{42E45F36-D8D2-86CC-F6ED-FA24E2D1CB23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP4 Flight Simulator.Editor.Plugins", "MP4 Flight Simulator.Editor.Plugins.csproj", "{6CD16097-A4AB-FEA5-9F46-C48D006C486F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E45F36-D8D2-86CC-F6ED-FA24E2D1CB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E45F36-D8D2-86CC-F6ED-FA24E2D1CB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E45F36-D8D2-86CC-F6ED-FA24E2D1CB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E45F36-D8D2-86CC-F6ED-FA24E2D1CB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD16097-A4AB-FEA5-9F46-C48D006C486F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD16097-A4AB-FEA5-9F46-C48D006C486F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD16097-A4AB-FEA5-9F46-C48D006C486F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD16097-A4AB-FEA5-9F46-C48D006C486F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
